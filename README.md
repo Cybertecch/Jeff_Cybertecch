@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**Jeff3722/Jeff3722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...RFID Jammer project, 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...Cybersecurity, Linux, Penetration testing
+- 📫 How to reach me: ...Jeff_Njanja on X
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
